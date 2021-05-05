@@ -1,1 +1,1 @@
-A program dokumántációja elérheto word dokumentum formályában.
+A program dokumántációja elérhető word dokumentum formályában.
